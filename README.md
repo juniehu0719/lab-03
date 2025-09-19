@@ -3,6 +3,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+TA in the lab, stack overflow(gradle issue, how to update to newest gradle), chatgpt(asked about a gradle issue I was having)
 
 ## Verbal Collaboration
 
